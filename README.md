@@ -96,8 +96,7 @@ module.exports = {
 ```
 
 
-#### Starting the app
-    (啟動應用程序)
+#### Starting the app(啟動應用程序)
 
 ```
 npm run serve
