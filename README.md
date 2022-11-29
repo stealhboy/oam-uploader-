@@ -33,7 +33,7 @@ nvm install
 ```
 
 Install Node modules:
-(安裝Node模板)
+(安裝Node模板)(使用 Ubuntu 22.04版本下載教學[`Node`](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04))
 
 ```
 npm install
