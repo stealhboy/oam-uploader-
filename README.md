@@ -105,8 +105,13 @@ Compiles the sass files, javascript, and launches the server making the site ava
 The system will watch files and execute tasks whenever one of them changes.
 The site will automatically refresh since it is bundled with livereload.
 
+![image](https://user-images.githubusercontent.com/117743957/204725544-4f616c80-0b63-4209-8ae0-bc8c15d9b99c.png)
+
+
 # Deployment
 To prepare the app for deployment run:
+![image](https://user-images.githubusercontent.com/117743957/204725696-044891c2-464f-4794-b1b7-846e5713083e.png)
+
 
 ```
 npm run build
